@@ -9,4 +9,5 @@ My X230i(2306B67) includes:
 This EFI is based on littlegtplr's work (https://github.com/littlegtplr/Hackintosh-X230-macOS). 
 
 Logs:
+
 08/12/2019: first upload, clover version 5046, macOS version 10.14.6
